@@ -15,4 +15,5 @@
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/2fbb0984-ea3b-43b3-99e5-e9c865667aeb)
 - 條件式內不必加分號
 - 指令超過兩行必要用大括號
-#### else if 指令
+#### if-else 指令
+![image](https://github.com/Xiaodan902/programming-note/assets/124233786/83bbd755-f9fc-4d98-bfe6-4f85bac96202)
