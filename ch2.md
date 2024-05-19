@@ -106,10 +106,13 @@
 - 輸出結果只有成立(true)與不成立(false)兩種
 
 &&
-![image](https://github.com/Xiaodan902/programming-note/assets/124233786/a4a45c5d-d5fc-4f34-9261-7372f88ccc54)
+![image](https://github.com/Xiaodan902/programming-note/assets/124233786/e17a982c-b8c2-42d6-a68e-b406b7b42254)
+
 ||
-![image](https://github.com/Xiaodan902/programming-note/assets/124233786/1148422d-c3da-4487-8080-a15172d544c8)
-![image](https://github.com/Xiaodan902/programming-note/assets/124233786/7df284e8-b4f9-4c94-985d-6d09515b3eb0)
+![image](https://github.com/Xiaodan902/programming-note/assets/124233786/bc9edcfb-0022-4b83-bbfb-9f52764eebda)
+
+!
+![image](https://github.com/Xiaodan902/programming-note/assets/124233786/9c25f130-889c-47b1-8dcb-92742ba6c140)
 
 
 
