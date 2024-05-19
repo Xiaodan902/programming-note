@@ -12,4 +12,4 @@
 - continue 指令
 
 #### if 指令
-![image](https://github.com/Xiaodan902/programming-note/assets/124233786/fc8a5b49-d1ae-4bbd-b0be-208191d4be36)
+![image](https://github.com/Xiaodan902/programming-note/assets/124233786/2fbb0984-ea3b-43b3-99e5-e9c865667aeb)
