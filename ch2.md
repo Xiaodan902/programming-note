@@ -39,21 +39,21 @@
   - 延伸性
 - 特性
   - 封裝性
-    利用類別(class)來實作抽象化資料型態
+    - 利用類別(class)來實作抽象化資料型態
   - 繼承性
-    允許代碼重複使用
+    - 允許代碼重複使用
     ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/813ae11d-991c-4ffe-90c7-a3c376addc80)
   - 多形性
-    一個東西具有不同的型態
+    - 一個東西具有不同的型態
 ### 資料型態
 #### 基本資料型態
 一種不能以其他型態來定義的資料型態稱為純量資料型態
 
 資料型態含兩個必備層次
 - 可說明性
-  含資料屬性，代表的數值與該屬性可能進行各種運算
+  - 含資料屬性，代表的數值與該屬性可能進行各種運算
 - 可執行性
-  包括資料的記憶體描述，並由資料型態運算，了解資料對象的儲存體描述
+  - 包括資料的記憶體描述，並由資料型態運算，了解資料對象的儲存體描述
 
 - 整數
   - (int)，保留4個位元組(32位元)
@@ -104,14 +104,13 @@
 #### 邏輯運算子
 - 邏輯運算子有&&(AND) ||(OR) !(NOT)
 - 輸出結果只有成立(true)與不成立(false)兩種
-
-&&
+- &&
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/e17a982c-b8c2-42d6-a68e-b406b7b42254)
 
-||
+- ||
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/bc9edcfb-0022-4b83-bbfb-9f52764eebda)
 
-!
+- !
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/9c25f130-889c-47b1-8dcb-92742ba6c140)
 
 
