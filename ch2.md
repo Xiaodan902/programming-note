@@ -109,6 +109,11 @@
 - ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/bc9edcfb-0022-4b83-bbfb-9f52764eebda)
 
 - ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/9c25f130-889c-47b1-8dcb-92742ba6c140)
+#### 位元運算子
+##### 位元邏輯運算子
+- 位元邏輯運算子有&(AND) |(OR) ^(XOR) ~(NOT)
+- &：兩字元都為1時，出來的結果才是1。ex: 12&38=4
+  ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/68236092-6e4f-42b0-9ca2-96b4a6944859)
 
 
 
