@@ -126,8 +126,7 @@
   ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/afc928b4-4ff9-49fc-8395-ab4dfebcb2fa)
 - >>：將運算元內容往右移n個位元，超出就捨去，左邊補0。ex:12>>2=3
   ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/f3a9705e-2108-4fb8-a82d-9aebbba9fd00)
-#### 資料型態轉換
-##### 自動型態轉換
+
 
 
 
