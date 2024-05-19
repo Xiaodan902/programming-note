@@ -112,9 +112,17 @@
 #### 位元運算子
 ##### 位元邏輯運算子
 - 位元邏輯運算子有&(AND) |(OR) ^(XOR) ~(NOT)
-- &：兩字元都為1時，出來的結果才是1。ex: 12&38=4
+- &：兩字元都為1時，運算結果才是1。ex: 12&38=4
   ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/68236092-6e4f-42b0-9ca2-96b4a6944859)
-
-
+- |：任一字元為1，運算結果就為1。 ex:12|38=46
+  ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/a984377e-293b-43e7-83a3-2a0327eacf9d)
+- ^：一個為1一個為0的時候，運算結果才是1。ex:12^38=42
+  ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/f60d3f93-d4d5-4e06-9994-9477ad975c16)
+- ~：1和0互換。ex:~12=-13
+  ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/5c8ddd96-d5f2-4095-bead-6a489e5e9f95)
+##### 位元位移運算子
+- 位元位移運算子有<<(左移) >>(右移)
+- <<：將運算元內容往左移n個位元，超出就捨去，右邊補0。ex:12<<2=48
+  ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/afc928b4-4ff9-49fc-8395-ab4dfebcb2fa)
 
 
