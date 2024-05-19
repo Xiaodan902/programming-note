@@ -11,9 +11,14 @@
 - break 指令
 - continue 指令
 
-#### if 指令
-![image](https://github.com/Xiaodan902/programming-note/assets/124233786/2fbb0984-ea3b-43b3-99e5-e9c865667aeb)
+#### if,if-else,if-else if-else 指令
 - 條件式內不必加分號
 - 指令超過兩行必要用大括號
-#### if-else 指令
-![image](https://github.com/Xiaodan902/programming-note/assets/124233786/83bbd755-f9fc-4d98-bfe6-4f85bac96202)
+- else if後面要接條件式
+- else 後面不用加條件式
+- 頭一個為if
+- 中間皆用else if
+- 最後用一個else
+- else if和else皆不是必要存在
+![image](https://github.com/Xiaodan902/programming-note/assets/124233786/190d3f92-cf73-47ff-9fd7-26a8cfef79e7)
+
