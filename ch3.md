@@ -21,4 +21,5 @@
 - 最後用一個else
 - else if和else皆不是必要存在
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/190d3f92-cf73-47ff-9fd7-26a8cfef79e7)
-
+#### switch指令
+- 
