@@ -104,13 +104,10 @@
 #### 邏輯運算子
 - 邏輯運算子有&&(AND) ||(OR) !(NOT)
 - 輸出結果只有成立(true)與不成立(false)兩種
-- &&
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/e17a982c-b8c2-42d6-a68e-b406b7b42254)
 
-- ||
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/bc9edcfb-0022-4b83-bbfb-9f52764eebda)
 
-- !
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/9c25f130-889c-47b1-8dcb-92742ba6c140)
 
 
