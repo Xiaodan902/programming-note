@@ -105,8 +105,10 @@
 - 邏輯運算子有&&(AND) ||(OR) !(NOT)
 - 輸出結果只有成立(true)與不成立(false)兩種
 
-a&&b
+&&
 ![image](https://github.com/Xiaodan902/programming-note/assets/124233786/a4a45c5d-d5fc-4f34-9261-7372f88ccc54)
+||
+![image](https://github.com/Xiaodan902/programming-note/assets/124233786/1148422d-c3da-4487-8080-a15172d544c8)
 
 
 
